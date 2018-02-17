@@ -7,3 +7,6 @@ c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu
 c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.GenerateResource.Cache
 c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.exe
 c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.pdb
+C:\Users\Mustafa\Source\Repos\Basit-Hafiza-Oyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+C:\Users\Mustafa\Source\Repos\Basit-Hafiza-Oyunu\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+C:\Users\Mustafa\Source\Repos\Basit-Hafiza-Oyunu\HafızaOyunu\obj\Debug\HafızaOyunu.pdb

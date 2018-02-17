@@ -782,11 +782,13 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1_AltKısım);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(1312, 719);
             this.MinimumSize = new System.Drawing.Size(1312, 719);
             this.Name = "Form1";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
-            this.Text = "Form1";
+            this.Text = "Basit Hafıza Oyunu";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
